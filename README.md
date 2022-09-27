@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Princ3-Pan
+- 👋 Hi, I’m Peter-Pan
 - 👀 I’m interested in  a little bit of everything I'm trying to become a dev some day so the more I learn the best!
 - 🌱 I’m currently learning java, javascript,css and html and I like them a lot
 - 💞️ I’m looking to collaborate on anything i can just give me a nodge and I will do my best to help
